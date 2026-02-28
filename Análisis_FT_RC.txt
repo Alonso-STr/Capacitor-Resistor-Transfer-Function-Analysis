@@ -1,0 +1,5 @@
+¿Cómo cambió la ubicación del polo en el plano s al disminuir la resistencia en el caso B?
+La solución en el denominador cambia drásticamente, cambiando de -0.2 a -2.2, sin embargo, no presenta ceros en el espacio imaginario, por lo que es un sistema estable.
+
+¿Hubo diferencias significativas entre el tiempo de establecimiento teórico y el medido físicamente? ¿A qué crees que se deba (tolerancia de componentes, resistencia de cables, etc.)?
+Si hay diferencias en comparación con la simulación, debido a factores como posible error de calibración en la fuente de alimentación, la resistencia interna de los cables, las ligeras pérdidas causadas por efecto Joule. De igual manera, presentó una diferencia del tiempo debido a que en la prueba física se utilizó un capacitor de 100 μF, por lo que el tiempo para alcanzar el τ deseado.
